@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Nic-Lemes/short-links#readme",
   "dependencies": {
     "@types/node": "^20.11.30",
+    "fastify": "^4.26.2",
     "tsx": "^4.7.1",
     "typescript": "^5.4.2"
   }
